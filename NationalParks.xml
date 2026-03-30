@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://raw.githubusercontent.com/FluffyBronco28/cse445a4/refs/heads/main/NationalParks.xsd" xsi:schemaLocation="https://raw.githubusercontent.com/FluffyBronco28/cse445a4/refs/heads/main/NationalParks.xsd https://raw.githubusercontent.com/FluffyBronco28/cse445a4/refs/heads/main/NationalParks.xsd">
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
   <NationalPark>
     <Name>Abraham Lincoln Birthplace National Historical Park</Name>
     <Phone>2703583137</Phone>
