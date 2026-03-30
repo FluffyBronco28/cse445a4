@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<!-- Components of a National Park Address -->
+        <xs:element name="Number" type="xs:int"/>   
+        <xs:element name="Street" type="xs:string"/>
+        <xs:element name="City" type="xs:string"/>
+        <xs:element name="State" type="xs:string"/>
+        <xs:element name="Zip" type="xs:string"/>
+
+<!-- Required for each National Park -->
+	<xs:element name="Name" type="xs:string"/>
+	<xs:element name="Phone" type="xs:string"/>
+
+
+<!-- Sequence for an Address -->
+<xs:element name="Address">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element ref="Number"/>
+			<xs:element ref="Street"/>
+			<xs:element ref="City"/>
+			<xs:element ref="State"/>
+			<xs:element ref="Zip"/>
+		</xs:sequence>
+		<xs:attribute name="NearestAirport" type="xs:string" use="required"/>
+	</xs:complexType>
+</xs:element>
+
+
+<!-- Sequence for the Elements/Attributes for Each National Park -->
+
+<xs:element name="NationalPark">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element ref="Name"/>
+			<xs:element ref="Phone" maxOccurs="unbounded"/>
+			<xs:element ref="Address"/>
+		</xs:sequence>
+		<xs:attribute name="Rating" type="xs:decimal" use="optional"/>
+	</xs:complexType>
+</xs:element> 
+
+
+<!-- Multiple national parks allowed -->
+
+<xs:element name="NationalParks">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element ref="NationalPark" maxOccurs="unbounded"/>	
+
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>
