@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+  <NationalPark>
+    <Name>Abraham Lincoln Birthplace National Historical Park</Name>
+    <Phone>2703583137</Phone>
+    <Address>
+      <Number>2995</Number>
+      <Street>Lincoln Farm Road</Street>
+      <City>Hodgenville</City>
+      <State>KY</State>
+      <Zip>42748</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Acadia National Park</Name>
+    <Address NearestAirport="Bangor">
+      <Number>25</Number>
+      <Street>Visitor Center Road</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Adams National Historical Park</Name>
+    <Phone>617-770-1175</Phone>
+    <Address NearestAirport="Boston"
+      <Number>1250</Number>
+      <Street>Hancock St.</Street>
+      <City>Quincy</City>
+      <State>MA</State>
+      <Zip>02169</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>African American Civil War Memorial</Name>
+    <Name>Civil War Memorial</Name>
+    <Phone>2024266841</Phone>
+    <Address NearestAirport="Washington D.C.">
+      <Number>1925</Number>
+      <Street>Vermont Avenue Northwest</Street>
+      <City>Washington</City>
+      <State>DC</State>
+      <Zip>20001</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>African Burial Ground National Monument</Name>
+    <Phone>2122384367</Phone>
+    <Address NearestAirport="New York City">
+      <Number>290</Number>
+      <Street>African Burial Ground National Monument</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10007</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Agate Fossil Beds National Monument</Name>
+    <Phone>3086654113</Phone>
+    <Phone>3086654114</Phone>
+    <Address NearestAirport="Scottsbluff">
+      <Number>301</Number>
+      <Street>River Road</Street>
+      <City>Harrison</City>
+      <State>NE</State>
+      <Zip>69346</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Alagnak Wild River</Name>
+    <Phone>9072463305</Phone>
+    <Address NearestAirport="King Salmon">
+      <Number>1000</Number>
+      <Street>Silver St., Bldg. 603</Street>
+      <City>King Salmon</City>
+      <State>AK</State>
+      <Zip>99613</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Alaska Public Lands</Name>
+    <Phone>9076443661</Phone>
+    <Phone>9072712744</Phone>
+    <Phone>8668696887</Phone>
+    <Address NearestAirport="Anchorage">
+      <Number>605</Number>
+      <Street>West 4th Avenue</Street>
+      <City>Anchorage</City>
+      <State>AK</State>
+      <Zip>99501</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Alcatraz Island</Name>
+    <Phone>415-561-4900</Phone>
+    <Address NearestAirport="San Francisco">
+      <Number>201</Number>
+      <Street>Alcatraz Island</Street>
+      <City>San Francisco Bay</City>
+      <State>CA</State>
+      <Zip>94133</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Grand Canyon</Name>
+    <Phone>9286387496</Phone>
+    <Phone>8882972757</Phone>
+    <Phone>8664992574</Phone>
+    <Address NearestAirport="Flagstaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon Village</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
