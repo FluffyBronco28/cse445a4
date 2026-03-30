@@ -33,9 +33,9 @@
 <xs:element name="NationalPark">
 	<xs:complexType>
 		<xs:sequence>
-			<xs:element ref="Name"/>
-			<xs:element ref="Phone" maxOccurs="unbounded"/>
-			<xs:element ref="Address"/>
+			<xs:element ref="Name" minOccurs="1" maxOccurs="1"/>
+			<xs:element ref="Phone" minOccurs="1" maxOccurs="unbounded"/>
+			<xs:element ref="Address" minOccurs="1" maxOccurs="1"/>
 		</xs:sequence>
 		<xs:attribute name="Rating" type="xs:decimal" use="optional"/>
 	</xs:complexType>
@@ -47,7 +47,7 @@
 <xs:element name="NationalParks">
 	<xs:complexType>
 		<xs:sequence>
-			<xs:element ref="NationalPark" maxOccurs="unbounded"/>	
+			<xs:element ref="NationalPark" minOccurs="1" maxOccurs="unbounded"/>	
 
 		</xs:sequence>
 	</xs:complexType>
