@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://fluffybronco28.github.io/cse445a4">
+
 
 <!-- Components of a National Park Address -->
         <xsd:element name="Number" type="xsd:int"/>   
