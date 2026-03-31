@@ -2,7 +2,7 @@
 <NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://fluffybronco28.github.io/cse445a4" xsi:schemaLocation="http://fluffybronco28.github.io/cse445a4 NationalParks.xsd">
   <NationalPark>
     <Name>Abraham Lincoln Birthplace National Historical Park</Name>
-    <Phone>2703583137</Phone>
+    <Phone>270-358-3137</Phone>
     <Address>
       <Number>2995</Number>
       <Street>Lincoln Farm Road</Street>
@@ -35,7 +35,7 @@
   <NationalPark>
     <Name>African American Civil War Memorial</Name>
     <Name>Civil War Memorial</Name>
-    <Phone>2024266841</Phone>
+    <Phone>202-426-6841</Phone>
     <Address NearestAirport="Washington D.C.">
       <Number>1925</Number>
       <Street>Vermont Avenue Northwest</Street>
@@ -46,7 +46,7 @@
   </NationalPark>
   <NationalPark>
     <Name>African Burial Ground National Monument</Name>
-    <Phone>2122384367</Phone>
+    <Phone>212-238-4367</Phone>
     <Address NearestAirport="New York City">
       <Number>290</Number>
       <Street>African Burial Ground National Monument</Street>
@@ -57,8 +57,8 @@
   </NationalPark>
   <NationalPark>
     <Name>Agate Fossil Beds National Monument</Name>
-    <Phone>3086654113</Phone>
-    <Phone>3086654114</Phone>
+    <Phone>308-665-4113</Phone>
+    <Phone>308-665-4114</Phone>
     <Address NearestAirport="Scottsbluff">
       <Number>301</Number>
       <Street>River Road</Street>
@@ -69,7 +69,7 @@
   </NationalPark>
   <NationalPark>
     <Name>Alagnak Wild River</Name>
-    <Phone>9072463305</Phone>
+    <Phone>907-246-3305</Phone>
     <Address NearestAirport="King Salmon">
       <Number>1000</Number>
       <Street>Silver St., Bldg. 603</Street>
@@ -80,9 +80,9 @@
   </NationalPark>
   <NationalPark>
     <Name>Alaska Public Lands</Name>
-    <Phone>9076443661</Phone>
-    <Phone>9072712744</Phone>
-    <Phone>8668696887</Phone>
+    <Phone>907-644-3661</Phone>
+    <Phone>907-271-2744</Phone>
+    <Phone>866-869-6887</Phone>
     <Address NearestAirport="Anchorage">
       <Number>605</Number>
       <Street>West 4th Avenue</Street>
@@ -104,9 +104,9 @@
   </NationalPark>
   <NationalPark>
     <Name>Grand Canyon</Name>
-    <Phone>9286387496</Phone>
-    <Phone>8882972757</Phone>
-    <Phone>8664992574</Phone>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
     <Address NearestAirport="Flagstaff">
       <Number>8</Number>
       <Street>S Entrance Road</Street>
@@ -117,7 +117,7 @@
   </NationalPark>
   <NationalPark>
     <Name>Zion National Park</Name>
-    <Phone>4357723256</Phone>
+    <Phone>435-772-3256</Phone>
     <Address NearestAirport="St. George">
     <Number>1</Number>
     <Street>Zion Park Boulevard</Street>
